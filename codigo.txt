@@ -1,0 +1,2 @@
+adios = 20+2@
+print(adios)@
